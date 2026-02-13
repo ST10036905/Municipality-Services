@@ -1,11 +1,7 @@
 ## Author : Mayra Selemane
-## Student : ST10036905
 ## Project : Municipality services application
-## Course : PROG7312
 ## Read-Me file
 ## 18/11/2024
-
-GitHub repository : https://github.com/ST10036905/Municipality_Services_PROG7312_POE.git
 
 The following C# application is being designed to allow for citizens to report any issues , view local events and track the status of any related service request in their municipality/location. The main feature which is being implemented is the final part of the POE is the "Service requests status " where users can view, search, and filter service requests by request ID, category, status, and submission date. This feature leverages efficient data structures and algorithms to ensure quick and responsive searches, making it an essential part of the application.
 
